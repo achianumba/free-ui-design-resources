@@ -1,0 +1,91 @@
+# Free Design Resources for Developers
+
+Design isn't the strongest trait of most developers in the wild. This repository aims to mitigate that by curating free visual/UI design resources.
+
+### Learn the Fundamentals of design
+
+[Learn the fundamentals of Design by Figma](https://www.figma.com/resources/learn-design/)
+
+[Principles of UX Design](https://www.invisionapp.com/ecourses/principles-of-ux-design)
+
+[Product Design by Google](https://www.udacity.com/course/product-design--ud509)
+
+[Ultimate Start guide for beginner UX/UI designers in 2019](https://uxdesign.cc/ultimate-start-guide-for-beginner-ux-ui-designer-b848be089589)
+
+[UX Design Articles and Books | Interaction Design Foundation (IxDF) Literature](https://www.interaction-design.org/literature): The Biggest and Most Authoritative Library of Open-Source UX Design Resources
+
+### UI Design Patterns
+
+[UI Design Patterns](http://ui-patterns.com/): Design patterns for UI components (e.g. getting user input, card layouts, navigation etc.)
+
+### Wireframing
+
+[UI / UX Design Tutorial – Wireframe, Mockup & Design in Figma](https://www.youtube.com/watch?v=c9Wg6Cb_YlU)
+
+[Designing Wireframes with Figma](https://www.youtube.com/watch?v=6t_dYhXyYjI)
+
+### Choosing a color palette
+
+[Super Practical Guide to Color Theory, Color Models and Perfect Color Palettes](https://www.youtube.com/watch?v=GyVMoejbGFg&list=PLwxrjMlQBFuS0z4NFjgp4Z8O_6ESnu8vv&index=28)
+
+[UI Design | How to choose colors and color palettes](https://www.youtube.com/watch?v=wuZuvhF4u6U)
+
+[UI Design: How to Choose Colors for Map Data](https://www.youtube.com/watch?v=DtdEZgm62AQ)
+
+[Color Theory for Designers: How To Create Your Own Color Schemes — Smashing Magazine](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
+
+### Typography
+
+[The typographic scale](https://spencermortensen.com/articles/typographic-scale/)
+
+### Find Inspiration
+
+[Figma Resources](https://www.figmaresources.com/)
+
+[UI Design Daily](https://www.uidesigndaily.com)
+
+[Muzli Magazine](https://medium.muz.li/)
+
+[Screenlane - Web & mobile UI design inspiration](https://screenlane.com/?ref=uimovement)
+
+[Uplabs](https://www.uplabs.com/)
+
+### Working with photos
+
+[Remove image backgrounds with this tool](https://remove.bg )
+
+### Challenges
+
+[Daily UI](https://www.dailyui.co/)
+
+### Lessons
+
+ [HackDesign: Receive a design lesson in your inbox each week](https://hackdesign.org/)
+
+[UX Tutorials](https://webdesign.tutsplus.com/categories/ux)
+
+[Google Design](https://design.google/)
+
+### Device Mockups
+
+[Threed](https://threed.io): A Free web application for creating 3D mobile device mockups.
+
+[How To Create Custom Mobile Device Mockups](https://www.youtube.com/watch?v=lc3H7Xpquf4&list=PLwxrjMlQBFuS0z4NFjgp4Z8O_6ESnu8vv&index=30)
+
+[Make CUSTOM MOCKUPS IN SECONDS with Photoshop](https://www.youtube.com/watch?v=B1CtXPvFDXM)
+
+### Best Practices
+
+[Design Better](https://www.designbetter.co/)
+
+### Design Talks
+
+[inVision Design Talks](https://www.invisionapp.com/talks)
+
+### Tools
+
+[GlooMaps](https://www.gloomaps.com/): A web app for creating visual sitemaps.
+
+[Figma](https://www.figma.com): A cross-platform app for UI design and prototyping
+
+[inVision](https://www.invisionapp.com/): UI design and prototyping tool
